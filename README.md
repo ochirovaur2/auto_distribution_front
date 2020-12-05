@@ -6,8 +6,10 @@
 In this project were used: BEM, Webpack, 7-1 SASS, JS, Jquery
 
 ## Back-end
-https://github.com/ochirovaur2/return_tickets_from_development_front/
+https://github.com/ochirovaur2/auto_distribution_back
 
+## Auto distribution script
+https://github.com/ochirovaur2/auto_distribution_script
 
 ## What's included
 
