@@ -1,0 +1,58 @@
+<% var data = {
+  title: "Войти в линию"
+  }; %>
+<%= _.template(require('./../includes/header.html').default)(data) %>
+
+<!-- {% extends 'shop/body.html' %}
+{% load static %}
+{% block title %}
+{% if sub_category %}{{ sub_category.title_mcat }}  | Онлайн-магазин Вкусная Лавка {% else %}{% if category %}{{ category.title_cat }}  | Онлайн-магазин Вкусная Лавка{% else %}Каталог | Онлайн-магазин Вкусная Лавка{% endif %}{% endif %}
+{% endblock title %}
+{% block body_section %} -->
+
+<!-- Main -->
+
+	<div class="container" >
+		
+		<div class="status-section">
+			<form action="#" class="status-form">
+			        
+		        
+		        
+		        <div class="status-form__div ">
+		            <input type="text" class="status-form__input" placeholder="Исполнитель"  name='user'>
+		            <label for="name" class="status-form__label">Исполнитель</label>
+		        </div>
+		        
+		        <div class="status-form__btn">
+		            <button class="btn btn_primary-color btn_animated  btn_width_normal ">
+		                Проверить →
+		            </button>
+		        </div> 
+		        <div class="status-form__btn">
+		            <button class="btn btn_primary-color btn_animated btn_width_normal btn-js ">
+		                Войти →
+		            </button>
+		        </div>    
+		           
+		        
+		    </form>
+		    <div class="results">
+		    	<div class="results__box my-small">
+		    		
+		    		<div class="results__description" >
+		    			<p class="paragraph" id='results'>В ожидании
+		    			</p>
+		    		</div>
+
+		    	</div>
+		    	
+		    	
+		    </div>
+		</div>
+	</div>
+	
+
+
+
+<%= _.template(require('./../includes/footer.html').default)(data) %>
