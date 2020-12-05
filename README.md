@@ -1,9 +1,13 @@
 
-<h3 align="center">Фронт часть экосистемы распределения задач Call-центра</h3>
+<h3 align="center">The front-end part of the ecosystem distribution of the Call-center </h3>
 
-## Краткое описание
+## Short description
 
 In this project were used: BEM, Webpack, 7-1 SASS, JS, Jquery
+
+## Website sample
+
+https://ochirovaur2.github.io/auto_distribution_front/dist/index.html
 
 ## Back-end
 https://github.com/ochirovaur2/auto_distribution_back
