@@ -5,7 +5,7 @@
 
 In this project were used: BEM, Webpack, 7-1 SASS, JS, Jquery
 
-## Front-end
+## Back-end
 https://github.com/ochirovaur2/return_tickets_from_development_front/
 
 
