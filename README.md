@@ -39,15 +39,6 @@ C:.
 |   |   |       cd-icons-cart-close.svg
 |   |   |
 |   |   \---logos
-|   |           footer_logo.png
-|   |           logo.jpg
-|   |           logo.svg
-|   |           logo001.png
-|   |           logo007.ico
-|   |           logo1.png
-|   |           logo12.jpg
-|   |           logo12.png
-|   |           oie_1705820ySJeWkaJ(1).png
 |   |           red.png
 |   |
 |   \---js
